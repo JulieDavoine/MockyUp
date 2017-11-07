@@ -1,0 +1,23 @@
+#navbarNavDropdown.collapse.navbar-collapse{
+    width: 604px;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    width: 604px;
+}
+.bg-light{
+    background-color: none;
+}
+
+.logo{
+   margin-left: 200px;
+}
+header.container,#picture1.container,#picture2.container,#picture3.container,#situation,#contact,footer.container{
+    width: 604px;
+}
+a.nav-link{
+    margin-left: 65px;
+}
+header{
+    background-image: url(backMenu.png);
+}
